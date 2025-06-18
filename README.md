@@ -1,4 +1,5 @@
 👥 Java Console Social – Offline Social Media App
+
 Java Console Social is a console-based, offline social media simulation built in Java for a semester OOP project. It mimics core social networking features—account creation, friend requests, posts, search, and more—all through a simple terminal interface.
 
 🚀 Features
@@ -105,4 +106,4 @@ Licensed under the MIT License — feel free to use, study, modify, and distribu
 Syed Muhammad Faizan Ali
 📍 Islamabad, Pakistan
 📧 faizandev666@gmail.com
-🔗 GitHub | LinkedIn
+🔗 [GitHub](https://github.com/Slayer9966) | [LinkedIn](https://www.linkedin.com/in/faizan-ali-7b4275297/)
